@@ -1,0 +1,22 @@
+{
+  "name": "pearl-plugin",
+  "version": "1.0.0",
+  "description": "Pearl Plugin provides Portfolio, Testimonial, Services and Team post types, contact form and related functionality.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fahidjavid@bitbucket.org/pearlthemes/pearl-plugin.git"
+  },
+  "author": "PearlThemes",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/pearlthemes/pearl-plugin#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-wp-pot": "^2.0.5",
+    "gulp-zip": "^4.0.0"
+  }
+}
